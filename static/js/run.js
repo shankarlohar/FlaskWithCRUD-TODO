@@ -1,0 +1,1 @@
+console.log("This application is running");
