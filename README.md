@@ -1,2 +1,2 @@
-# FlaskWithCRUD-TODO
-This is a simple TODO application built with FLASK and SQL lite.
+# SLIA - TODO
+A simple and minimal todo application. For learning !
