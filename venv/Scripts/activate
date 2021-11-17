@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="A:\WorkFolder\GitHub Projects\FlaskCRUDapp\venv"
+VIRTUAL_ENV="A:\WorkFolder\GitHub Projects\FlaskWithCRUD-TODO\venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
